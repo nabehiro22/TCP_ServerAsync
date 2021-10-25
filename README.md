@@ -1,4 +1,7 @@
 # TCP_ServerAsync
 C#でSystem.Net.SocketsのxxxAsyncを使ったTCPサーバを作ってみる  
 解説は  
-https://nabehirosoft.blogspot.com/2021/07/csystemnetsocketsxxxasynctcp.html
+【概要編】  
+https://www.nabehiro.net/2021/10/c-sharp-tcp-server-1.html  
+【詳細編】  
+https://www.nabehiro.net/2021/10/c-sharp-tcp-server-2.html
